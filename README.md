@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rubén Patón 👋
 
-<!--
-**RubenPaton/RubenPaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Student | Cloud & DevOps
 
-Here are some ideas to get you started:
+I'm an IT student interested in **Cloud Computing, DevOps, Infrastructure and Cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have completed my studies in **ASIR (Administración de Sistemas Informáticos en Red)** and I'm currently studying a **Master's Degree in Multicloud Engineering & DevOps**.
+
+I'm using GitHub to document my **learning process, personal projects and experiments**.
+
+---
+
+## 📚 Education
+
+**Master's Degree in Multicloud Engineering & DevOps**
+
+*Currently studying*
+
+**ASIR — Administración de Sistemas Informáticos en Red**
+
+*Completed*
+
+---
+
+## 🚀 What you'll find here
+
+Projects, labs, scripts and experiments related to my studies and my journey into **Cloud & DevOps**.
+
+> Learn → Build → Document
