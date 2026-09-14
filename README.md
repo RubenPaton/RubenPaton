@@ -1,29 +1,33 @@
-# Hi, I'm Rubén Patón 👋
+# Hola, soy Rubén 👋
 
-### IT Student | Cloud & DevOps
+### Estudiante de IT | Cloud & DevOps
 
-I'm an IT student interested in **Cloud Computing, DevOps, Infrastructure and Cybersecurity**.
+Soy estudiante de informática interesado en **Cloud Computing, DevOps, Infraestructura y Ciberseguridad**.
 
-I have completed my studies in **ASIR (Administración de Sistemas Informáticos en Red)** and I'm currently studying a **Master's Degree in Multicloud Engineering & DevOps**.
+He completado mis estudios de **ASIR (Administración de Sistemas Informáticos en Red)** y actualmente estoy cursando un **Máster en Ingeniería Multicloud y DevOps**.
 
-I'm using GitHub to document my **learning process, personal projects and experiments**.
+Utilizaré GitHub para documentar mi **proceso de aprendizaje, proyectos personales y experimentos**.
 
 ---
 
-## 📚 Education
+## 📚 Formación
 
-**Master's Degree in Multicloud Engineering & DevOps**
+*Actualmente cursando*
 
-*Currently studying*
+**Máster en Ingeniería Multicloud y DevOps**
+
+*Finalizado*
 
 **ASIR — Administración de Sistemas Informáticos en Red**
 
-*Completed*
+*Finalizado*
+
+**SMR - Sistemas Microinformáticos y Redes**
 
 ---
 
-## 🚀 What you'll find here
+## 🚀 Qué encontrarás aquí
 
-Projects, labs, scripts and experiments related to my studies and my journey into **Cloud & DevOps**.
+Proyectos, laboratorios, scripts y experimentos relacionados con mis estudios.
 
-> Learn → Build → Document
+> Aprender → Construir → Documentar
