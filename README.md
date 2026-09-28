@@ -69,4 +69,4 @@ ruben@sysadmin:~$ _
 ## Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge\&logo=githubpages\&logoColor=1a1b26)](https://TU-USUARIO.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/rubenpaton)
